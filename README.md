@@ -21,4 +21,4 @@ console.log(servicoDePagamento.consultarUltimoPagamento());
 
 A entregua deve ser realizada via Github e o repositório deve ter a classe a pasta src e os testes dos métodos dessa classe dentro da pasta test usando Mocha e Node Assert.
 
-<span style="color: red">**Data entrega: 23/05/2026 até as 23:59:59**</span>
+**Data entrega: 23/05/2026 até as 23:59:59**
